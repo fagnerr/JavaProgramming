@@ -1,8 +1,8 @@
-package Lab10;
+package javafundamentals;
 
 import java.io.*;
 
-public class L10Q2 {
+public class Fundamentos02 {
 	public static void main(String[] args) {
 		SubstitutionCipher sc1 = new SubstitutionCipher("plainText.txt", "cipherText.txt", 3);
 		sc1.convertTextToFile("encode");
