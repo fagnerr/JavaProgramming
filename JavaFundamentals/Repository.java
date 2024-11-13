@@ -1,4 +1,4 @@
-package Lab10.L10Q4;
+package javafundamentals;
 
 import java.util.List;
 
