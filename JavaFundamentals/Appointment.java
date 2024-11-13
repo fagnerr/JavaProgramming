@@ -1,4 +1,4 @@
-package package javafundamentals;
+package javafundamentals;
 
 import java.time.LocalDateTime;
 
