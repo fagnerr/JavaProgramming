@@ -1,12 +1,10 @@
-package Lab10;
+package javafundamentals;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.PrintWriter;
 
-// Reference code :https://github.com/LimJY03/WIX1002_UM/blob/main/Lab%2010/L10Q3/ShuffleCipher.java
-// Reference code: https://github.com/Rescue9/CIS-149-Java-Programming-1/blob/master/src/Ch8/Lab3/ShuffleCipher.java
-public class L10Q3 {
+public class Fundamentos03 {
 	public static void main(String[] args) {
 		ShuffleCipher sc1 = new ShuffleCipher("plainText.txt", "shuffleCipherText.txt", 3);
 		sc1.convertTextToFile("encode");
