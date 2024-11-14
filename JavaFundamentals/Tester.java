@@ -1,4 +1,4 @@
-package Lab10;
+package javafundamentals;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

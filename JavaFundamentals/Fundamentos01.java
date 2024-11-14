@@ -1,6 +1,6 @@
-package Lab10;
+package javafundamentals;
 
-public class L10Q1 {
+public class Fundamentos01  {
 	public static void main(String[] args) {
 		Employee[] employees = new Employee[3];
 		employees[0] = new PermanentEmployee("Employee 1", 'A');
