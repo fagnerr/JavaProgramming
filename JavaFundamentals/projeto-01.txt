@@ -1,0 +1,7 @@
+Fundamentos de Java (Java Fundamentals). Seção 7 Parte 1: Criando um Projeto de Inventário
+
+Este projeto vai conduzi-lo ao longo das Seções 4, 5, 6 e 7 do curso. Após cada seção, outras etapas deverão ser concluídas até ser criado um aplicativo Java completo para manutenção de Inventário.
+Para cada parte, tome como base a parte anterior de modo que requisitos antigos e novos sejam atendidos.
+Inclua todas as partes em um pacote chamado Inventário.
+
+Crie um programa de inventário que possa ser usado para uma ampla gama de produtos (cds, dvds, software etc.).
